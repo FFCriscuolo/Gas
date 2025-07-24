@@ -1,6 +1,4 @@
-# **Aprendizaje automático aplicado  
-a un modelo simplificado de detección  
-de gases en imágenes hiperespectrales**
+# Aprendizaje automático aplicado a un modelo simplificado de detección de gases en imágenes hiperespectrales
 
 **Facundo F. Criscuolo**  
 [facundocriscuolo@gmail.com](mailto:facundocriscuolo@gmail.com)
